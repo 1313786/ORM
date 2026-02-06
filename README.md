@@ -6,7 +6,8 @@ To develop a Django application to manage an online food delivery platform like 
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
-![](ERD.jpg)
+<img width="1536" height="1024" alt="ORM ex1" src="https://github.com/user-attachments/assets/a4c5b402-0601-45c3-88ae-59f770d9b722" />
+
 
 ## DESIGN STEPS
 
